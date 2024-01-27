@@ -1,0 +1,17 @@
+body {
+    background-color: rebeccapurple;
+}
+
+div.newStyle {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5rem;
+    justify-content: center;
+    align-items: center;
+    color: orange;
+    font-size: 2rem;
+}
+
+div#newDate {
+    font-size: 3rem;
+}
